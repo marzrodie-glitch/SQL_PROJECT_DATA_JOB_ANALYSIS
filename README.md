@@ -238,7 +238,7 @@ ORDER BY
 LIMIT 25;
 ```
 
-![The top 25 skills to learn](Assests/Top_25_skills_in_demand_Table.png)
+![The top 25 skills to learn](Assests/Optimal_skills_demand_vs_pay.png)
 
 *Table of the most optimal skills for data analyst sorted by salary*
 
